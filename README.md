@@ -1,6 +1,6 @@
 # OpenCat
 **News: Our crowdfunding campaign is live on www.igg.me/at/nybble !**
-**More details: https://www.hackster.io/petoi/opencat-845129**
+**More details: https://www.hackster.io/petoi/opencat-845129 !**
 
 This is the repository for OpenCat project. 
 
